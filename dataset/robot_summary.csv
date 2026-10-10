@@ -1,0 +1,51 @@
+robot_id,operating_hours_total,battery_health_pct_synthetic,maintenance_events_count,historical_downtime_hours,avg_health_score_24h,failure_risk_score_synthetic,failure_probability_synthetic,health_status_synthetic,synthetic_fault_profile_for_demo
+R001,5660,98.4,1,1.56,89.03,8.45,0.084,Healthy,healthy
+R002,5277,93.5,0,0.0,86.17,8.08,0.081,Healthy,healthy
+R003,4200,76.0,4,18.45,69.82,32.75,0.328,Monitor,motor
+R004,3326,90.6,1,3.49,88.65,7.93,0.079,Healthy,healthy
+R005,3800,78.0,3,9.55,73.85,26.93,0.269,Monitor,battery
+R006,3120,90.7,0,0.0,81.83,11.44,0.114,Healthy,healthy
+R007,3589,86.6,1,1.95,87.17,8.27,0.083,Healthy,healthy
+R008,4500,74.0,3,8.11,70.16,25.59,0.256,Monitor,motor
+R009,1135,92.3,1,1.14,84.86,11.42,0.114,Healthy,healthy
+R010,4900,72.0,4,15.74,69.02,22.8,0.228,Monitor,mechanical
+R011,3906,90.8,1,1.64,76.89,13.25,0.133,Healthy,healthy
+R012,746,97.1,2,7.53,83.76,10.75,0.107,Healthy,healthy
+R013,7250,62.0,6,71.61,39.55,51.31,0.513,At Risk,motor
+R014,1571,91.7,0,0.0,86.61,11.84,0.118,Healthy,healthy
+R015,3600,81.0,3,10.14,73.03,34.6,0.346,Monitor,battery
+R016,3170,94.8,2,5.81,86.03,5.22,0.052,Healthy,healthy
+R017,4345,93.7,0,0.0,88.81,4.65,0.047,Healthy,healthy
+R018,6800,65.0,5,25.2,38.61,48.93,0.489,At Risk,mechanical
+R019,5087,86.0,2,2.81,86.32,2.7,0.027,Healthy,healthy
+R020,4100,75.0,3,20.09,66.64,30.13,0.301,Monitor,mechanical
+R021,5668,99.1,0,0.0,74.77,4.1,0.041,Healthy,healthy
+R022,1191,90.9,2,9.71,84.51,13.3,0.133,Healthy,healthy
+R023,4400,73.0,3,9.8,72.41,23.69,0.237,Monitor,motor
+R024,1040,94.8,0,0.0,85.85,11.6,0.116,Healthy,healthy
+R025,3300,82.0,2,6.71,71.66,30.14,0.301,Monitor,battery
+R026,2214,86.5,0,0.0,87.21,11.68,0.117,Healthy,healthy
+R027,4305,95.9,2,2.21,86.09,11.52,0.115,Healthy,healthy
+R028,3174,85.2,2,3.59,87.79,7.66,0.077,Healthy,healthy
+R029,3332,91.3,0,0.0,84.7,3.1,0.031,Healthy,healthy
+R030,4700,71.0,4,9.05,70.64,29.11,0.291,Monitor,mechanical
+R031,5102,85.7,2,3.93,83.66,9.3,0.093,Healthy,healthy
+R032,3117,97.3,0,0.0,83.22,13.97,0.14,Healthy,healthy
+R033,7100,58.0,6,56.02,66.21,57.32,0.573,At Risk,battery
+R034,5608,99.1,2,3.0,84.1,6.88,0.069,Healthy,healthy
+R035,3900,77.0,3,8.21,73.59,24.95,0.249,Monitor,battery
+R036,4914,92.7,0,0.0,87.79,3.85,0.038,Healthy,healthy
+R037,4652,95.2,2,13.93,85.98,5.37,0.054,Healthy,healthy
+R038,4600,72.0,4,6.84,65.69,36.48,0.365,Monitor,motor
+R039,4328,99.1,0,0.0,84.25,12.75,0.128,Healthy,healthy
+R040,6500,66.0,5,50.25,38.77,59.54,0.595,At Risk,mechanical
+R041,4878,92.1,1,3.02,87.92,14.32,0.143,Healthy,healthy
+R042,5174,96.6,1,1.74,79.75,14.11,0.141,Healthy,healthy
+R043,2744,86.0,0,0.0,84.63,12.78,0.128,Healthy,healthy
+R044,1082,98.1,1,1.08,77.08,7.11,0.071,Healthy,healthy
+R045,1242,87.8,2,6.68,75.92,9.7,0.097,Healthy,healthy
+R046,2672,97.7,2,3.74,85.13,14.36,0.144,Healthy,healthy
+R047,8850,52.0,8,128.73,24.1,87.48,0.875,Critical,motor
+R048,1828,91.2,2,2.68,87.65,13.14,0.131,Healthy,healthy
+R049,8400,44.0,7,82.35,52.42,78.47,0.785,Critical,battery
+R050,9200,48.0,9,111.81,9.73,87.77,0.878,Critical,mechanical

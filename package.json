@@ -1,0 +1,11 @@
+{
+  "name": "ai-robot-fleet-health-coordinator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "backend": "backend/venv/Scripts/python backend/main.py",
+    "test": "backend/venv/Scripts/python backend/test_backend.py"
+  }
+}
